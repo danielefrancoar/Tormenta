@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://estaticos.muyinteresante.es/uploads/images/test/56b9f5015bafe87fbff9b586/test-sueno1.jpg);
+    background-repeat: no-repeat;  
+    background-size: 2000px;
+    }
+    p{
+        font-size: 50px;
+        color:plum;
+        background-color: blueviolet;
+    }
+    h3{
+        font: size 10px;
+        color: darkmagenta;
+        background-color: coral;
+    }
+    h4{
+        font-size: 20px;
+        color: darkmagenta;
+        background-color: coral;
+    }
+    
